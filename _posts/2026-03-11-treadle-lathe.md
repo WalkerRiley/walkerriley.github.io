@@ -2,6 +2,7 @@
 layout: post
 title: Project - Treadle Lathe
 date: 2026-03-18 10:16 -0400
+categories: [woodworking]
 ---
 
 One of my decisions early on in my amateur woodworking journey was to avoid as much in the way of power tools as possible.  This has led to some...interesting...issues.  I am an amateur.  I don't have the muscle memory those with years of experience do.  My hand cuts are crooked.  I'm also not able to buy nice saws so I've been using discount handsaws that are horrible at best.
