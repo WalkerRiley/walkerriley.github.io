@@ -1,0 +1,45 @@
+---
+layout: post
+title: Palladium TTRPG
+date: 2026-03-25 10:00 -0400
+categories: [Hobbies]
+tags: [TTRPG, Fantasy]
+---
+
+Way way back in the long long ago, the late 1990s, my buddies introduced me to the TMNT TTRPG game.  Based on the comics, not the cartoon, it uses Palladium's Megaversal TTRPG system, developed in the early 80s.  The system is incredibly rough, but it offered a bit more freedom and versatility than DND's more rigid structure at the time.  It certainly wasn't GURPS' 'make it up as you go along whatever' method of gaming.  Still, we had fun.
+
+A few years later and we got heavily into Heroes 2nd Edition, also by Palladium and using the same system.  We had a campaign going that spanned the better part of two years, culminating in the final defeat of the villain, or so we thought.
+
+During this time period, I started looking into Palladium Fantasy and then Palladium Rifts.  Rifts was insane.  Mega Damage Capacy, or MDC, basically made everything we had done in TMNT and Heroes look like kid's play.
+
+A bit of info, but only a little so Kevin doesn't C&D me, characters have HP and SDC.  HP is your life...you run out of HP you go into a coma.  You hit a certain negative HP based on stats you die.  SDC, or Structural Damage Capacity, is your capacity to take damage before it affects your HP.  Rocky Balboa gets clocked but he keeps standing, maybe bruised, but otherwise fine for example.  MDC would be the steel hull on a warship.  It takes 100 points of SDC to equal 1 point of MDC.  And in Rifts, there are monsters running around with hundreds of MDC.
+
+A typical punch from a Heroes character might do 2-3 d6 of SDC of damage.  In otherwords, a punch from the hero would more likely break every bone in the attacker's hand while the Mega Damage defender doesn't even notice.
+
+Now, of course we realize that most supers are going to actually be MD characters.  Superman isn't breaking his fist on a dragon.  So there have been various conversions from SDC to MDC supplements released.
+
+So back to Rifts.  I never got to run a Rifts game.  We had finished the Heroes campaign, we had tried to startup another but an incident happened that caused our group to break.  I won't go into it beyond we never gamed as a group again.  I've had a massive itch to get back into TTRPG games for quite a few years now.  I dug out my old Rifts book and started going through it again.  I really wanted to set the campaign in my home state of Maine.  Browsing the official forums taught me two things, though.  1) Everyone unilaterally agreed that, in spite of being on every official map provided by Palladium, Maine likely didn't exist anymore.  and 2) the current breed of Palladium players have forgotten what made the system better than DnD back in the day, and that was that the game is only limited by the GM's imagination.  I asked once what a setting in Maine could look like if it hadn't been destroyed.  I was met with a wall of "it doesn't matter, it's gone, you can't really do anything there.  Go to Free Quebec if you want to be in that area."
+
+So that should be a good point to introduce the setting of Rifts.  To summarize:  something happened, Magic exploded, interdimensional rifts opened up all over the place, the seas rose, the land buckled, etc. And now it's several hundred years into the future.  Ghosts, aliens, interdimensional beings, robots, cyborgs, mutants, anything you can think of exist on or around Earth now.  You can take any, and I mean any, of the existing Palladium systems and get them to work with Rifts with a varying level of success.  It's the MCU Multiversal train station of the Palladium world.
+
+So back to what I was saying, though...there is a not insignificant number of the current fanbase that takes what is written in the world books (there's like 33 of them, btw) as gospel.  Which I *thought* was antithetical to what Kevin S originally designed Rifts to be, but no one seems to remember that.  So I couldn't get much help from them, and the few who DID suggest I go ahead anyways also mentioned that it would never be considered "canon" lore so it was a waste of my time.  That one gave me pause...I don't ever recall saying I wanted to make it canon lore to begin with, just could I put my setting there.  These guys are...interesting.
+
+Fastforward a few years.  I got the urge to do Rifts again, but I knew that any group I put together would likely have zero idea how to play.  So what to do.  Well, there are a few campaigns in the World books I could use, or I could hunt down various Rifters (the bi-wheneverly "magazine" for Palladium that includes artwork and stories and campaigns) and see what they have.  Or, I could put together my idea again.
+
+I wanted remote.  Everyone does Chi-Town (present day Chicago) or Free Quebec.  I don't think I've ever actually seen a campaign done on another continent.  There's enough World Books for them...  But I wanted very remote with little interference from massively large and dangerous MD mobs and I needed to justify their lack.  So....Canada.  Central Canada.  Ontario to be exact.  And middle/northern.  The World Book for Canada had almost nothing for Ontario beyond the Great Lakes' coastline, so that make it perfect for me.  There is the danger of the insectoid Xiticix, the Coalition (human supremecists) nearby, and yes, Free Quebec.  There's also Pirate Bay and a few settlements.  But most important, not much else.
+
+And that's all I say about that.  I plan to do a full write up once I've finished writing the adventure.  Maybe I'll even submit it to Palladium to be included in the next Rifters book.  I do know for certain if Kevin ever sees this post or the post for the adventure I'm almost certainly going to get a C&D letter in my inbox.  I'll ignore it.  Nothing I've said here nor will post violates their trademark or copyrights.  I wish people realized that back in the day, because we lost a massive number of fansites to his inane need to control everything around Palladium.
+
+Ah, let's go there next.  Why is Palladium kind of in a hole right now?  There are various reasons.  They've done a few scummy Kickstarters, for example, that have lost a lot of trust in them.  But honestly, I point a finger right at the founder and owner, Kevin Siembieda.
+
+The man was a menance during the early days of the internet.  He had this idea that anything related to Palladium that he didn't personally touch was a violation of his IP.  So fansites would pop up, usually a gamer who was excited to show off their custom OCC (character class), only to recieve a notice from Palladium Books about violating their trademark and copyright and demanding the site be taken down.  It started to become a badge of honor to receieve a C&D notice from Kevin, and a bit of a joke, but the damage was being done.  Thousands of custom OCCs and camapaigns and stories have been lost forever because this man cannot fathom not having total control over something.
+
+And that is also evidence in all of Palladium's product.  Show me one Palladium book that does not list Kevin as one of the editors.  Now, I get it, the man is allowed to have credit.  But his name features prominantly on the cover of *every* Palladium Books book, regardless how much input he actually had.  I don't recall Peter Adkison slapping his name on everything WotC did.
+
+But hey, it's his right as the owner...until you start going through each world book and you'll come across section credits and quite literally every single one has "with input and tweaks by Kevin S" in big bold letters.
+
+So what can we take from this?  He's very controlling and a bit of a narcissist.  The incessent need to be credit on every bit of Palladium product has slowed its progress to a standstill.
+
+Another thing is he refuses to allow anyone to update his system.  Palladium has been around since the early 80s.  I believe Fantasy got one revision, and Rifts had the Ulimate Edition that updated a few things, but for the most part the system itself has not changed.  And let me tell you, it's very rough.  DnD is on its fifth edition, and while many will say it's gotten worse (hence Pathfinder), you cannot deny they aren't at least *trying* to keep it interesting and fresh for newer audiences.  Palladium is stuck in the past.  And anytime someone posts "hey, I tweaked combat a bit and now it flows a lot better" BAM the C&D hammer comes down.  Kevin seems to think Palladium is perfect the way it is.  It is not.
+
+So why would I use Palladium Rifts?  Because in spite of all that, I still enjoy it.  I can ignore Kevin nowadays.  There's a massive amount of cases out there that shows referencing his IP does not equal infringing on it now.  And Rifts, while broken, can have a lot of fun stuff happen.  I've watched a number of campaigns that have popped up on YT and they genuinely seem to have fun.  So I'm going to write my adventure and if Kevin has an issue he can send me an email.  I'll proudly and prominently show it for everyone to see and continue right on writing my little adventure.
