@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Danger at Black Rock Outpost Module
-date: 2026-04-21 10:00 -0400
+date: 2026-04-22 10:00 -0400
 categories: [Hobbies]
 tags: [TTRPG, Fantasy]
 ---
@@ -9,6 +9,8 @@ tags: [TTRPG, Fantasy]
 Okay.  I'm done.  I've finished my adventure module for Palladium Rifts.
 
 This is an introductory adventure meant for a small group of brand new players.  It's a low stakes adventure meant to introduce new players to the game and hopefully keep them interested in continuing.  The adventure should take at most two sessions.  It will introduce them briefly to the Coalition, to magic in general, and present them opportunities for battle and for decision making.
+
+I've run a few simulations with various party make-ups and I think I've managed to semi-balance most of the encounters enough to account for three to four new players with a mix of O.C.C.s.  GM's should very much adjust depending on the number of players and what kind of characters they make, though.
 
 GMs should read through the module a few times.  New players obviously can read the module, but they'll know what to expect which means the GM will likely have to remind them about meta-gaming on several occasions.
 
